@@ -1,0 +1,10 @@
+{
+  "stdin_port": 62312, 
+  "ip": "127.0.0.1", 
+  "control_port": 56537, 
+  "hb_port": 1028, 
+  "key": "", 
+  "shell_port": 1030, 
+  "transport": "tcp", 
+  "iopub_port": 1029
+}

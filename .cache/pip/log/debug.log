@@ -1,0 +1,14 @@
+Collecting python-nvd3
+  Downloading python-nvd3-0.13.8.tar.gz
+Requirement already satisfied (use --upgrade to upgrade): setuptools in /usr/lib/python2.7/dist-packages (from python-nvd3)
+Collecting python-slugify==0.1.0 (from python-nvd3)
+  Downloading python-slugify-0.1.0.tar.gz
+Requirement already satisfied (use --upgrade to upgrade): Jinja2>=2.7.2 in /usr/lib/python2.7/dist-packages (from python-nvd3)
+Collecting Unidecode>=0.04.16 (from python-slugify==0.1.0->python-nvd3)
+  Downloading Unidecode-0.04.17.tar.gz (201kB)
+Requirement already satisfied (use --upgrade to upgrade): markupsafe in /usr/lib/python2.7/dist-packages (from Jinja2>=2.7.2->python-nvd3)
+Installing collected packages: Unidecode, python-slugify, python-nvd3
+  Running setup.py install for Unidecode
+  Running setup.py install for python-slugify
+  Running setup.py install for python-nvd3
+Successfully installed Unidecode-0.4.17 python-nvd3-0.13.8 python-slugify-0.1.0
